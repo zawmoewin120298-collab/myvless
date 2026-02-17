@@ -3,7 +3,7 @@
     "port": 8080,
     "protocol": "vless",
     "settings": {
-      "clients": [{"id": "35f3e91e-0ff6-457f-a541-b85c2ec5f394"}],
+      "clients": [{"id": "f2e17b4d-22fd-44a4-90db-40649717be8e"}],
       "decryption": "none"
     },
     "streamSettings": {
